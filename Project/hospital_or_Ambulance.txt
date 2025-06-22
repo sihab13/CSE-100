@@ -1,0 +1,5 @@
+
+   Ambulance:
+
+   Please Dial 999 for getting quick ambulance service 
+   in your current location.
