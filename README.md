@@ -1,1 +1,1 @@
-# CSE-100
+Project is not organized, i am working on it
